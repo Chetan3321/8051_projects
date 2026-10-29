@@ -1,0 +1,4 @@
+".\Objects\STARTUP.obj",
+".\Objects\main.obj" 
+TO ".\Objects\Switch_on_off" 
+PRINT(".\Listings\Switch_on_off.m51")
